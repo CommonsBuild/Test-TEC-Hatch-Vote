@@ -1,7 +1,7 @@
 {
     "org": "TECommons",
     "repo": "Test-TEC-Hatch-Vote",
-    "tokenAddress": "0xc4fbE68522ba81a28879763C3eE33e08b13c499E",
+    "tokenAddress": "0xc4fbE68522ba81a28879763C3eE33e08b13c499E 0xDF2C3C8764a92Eb43d2eEA0A4C2d77c2306b0835",
     "labels": ["Test Vote"],
     "votingMethod": "QUADRATIC",
     "chainId": 100
